@@ -1,3 +1,4 @@
+[![Image of https://github.com/Ajeet-Gupta/Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/svg/profile/badge.svg)](https://github.com/Ajeet-Gupta/Visitors)
 - 👋 Hi, I’m @Ajeet-Gupta
 - 👀 I’m interested in competitive programming 
 - 🌱 I’m currently learning java
