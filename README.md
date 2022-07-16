@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajeet gupta</h1>
 <h3 align="center">A passionate programmer</h3>
-<img src="https://www.codecademy.com/resources/blog/content/images/2021/12/7-Tips-to-Help-You-Learn-a-New-Programming-Language-Fast.png" alt="Girl in a jacket" width="500" height="600">
+<img src="https://www.codecademy.com/resources/blog/content/images/2021/12/7-Tips-to-Help-You-Learn-a-New-Programming-Language-Fast.png" alt="Girl in a jacket" width="500" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetgupta80&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetgupta80" /> </p>
