@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajeet gupta</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">a newbie</h3>
 <img src="https://www.codecademy.com/resources/blog/content/images/2021/12/7-Tips-to-Help-You-Learn-a-New-Programming-Language-Fast.png" alt="Girl in a jacket" width="900" >
 
 
