@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **java , django , dsa**
 
-- 💬 Ask me about **django, competitive programming**
+- 💬 Ask me about **django, java, c++, competitive programming**
 
 - 📫 How to reach me **edaj8080@gmail.com**
 
-- ⚡ Fun fact **i am an very ordinary man**
+- ⚡ Fun fact ** its all about consistency**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
