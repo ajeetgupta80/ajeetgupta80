@@ -147,11 +147,13 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetgupta80&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
 ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajeetgupta80&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ajeetgupta80&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetgupta80&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
 </div>
 <!--  End Stats Cards -->
 
