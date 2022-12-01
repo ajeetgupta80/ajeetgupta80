@@ -2,7 +2,7 @@
 <h1 style="color: #44AEFB;" align="center">Hi👋, I'm Ajeet gupta 👨🏻‍💻</h1>
 <h3 style="color: #44AEFB;" align="center">A Newbie</h3>
 <a href="https://wakatime.com/@97de0341-f733-4bf5-94dd-7786aed24eeb"><img src="https://wakatime.com/badge/user/97de0341-f733-4bf5-94dd-7786aed24eeb.svg" alt="Total time coded since Jul 19 2022" /></a>
-<img src="https://www.codecademy.com/resources/blog/content/images/2021/12/7-Tips-to-Help-You-Learn-a-New-Programming-Language-Fast.png" alt="Girl in a jacket" width="900" >
+<!-- <img src="https://www.codecademy.com/resources/blog/content/images/2021/12/7-Tips-to-Help-You-Learn-a-New-Programming-Language-Fast.png" alt="Girl in a jacket" width="900" > -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetgupta80&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetgupta80" /> </p>
