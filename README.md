@@ -145,7 +145,7 @@
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
+<div class="stats" align=">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetgupta80&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
@@ -153,6 +153,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ajeetgupta80&count_private=true&theme=algolia&border_radius=20)
 
+Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats
 
 </div>
 <!--  End Stats Cards -->
