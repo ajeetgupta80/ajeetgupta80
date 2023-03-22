@@ -153,7 +153,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ajeetgupta80&count_private=true&theme=algolia&border_radius=20)
 
-Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats
+
 
 </div>
 <!--  End Stats Cards -->
