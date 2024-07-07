@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeetgupta80" alt="ajeetgupta80" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajeetgupta80" target="blank"><img src="https://img.shields.io/twitter/follow/ajeetgupta80?logo=twitter&style=for-the-badge" alt="ajeetgupta80" /></a> </p>
+
 
 - 🌱 I’m currently learning **java , django , dsa**
 
